@@ -1,2 +1,0 @@
-# counter
-Created with CodeSandbox
